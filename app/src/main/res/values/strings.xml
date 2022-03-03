@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">liteOtgServer</string>
+    <!-- Settings Activity Title -->
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">设置</string>
+    <string name="sync_header">开关</string>
+
+    <!-- Messages Preferences -->
+    <string name="port_title">端口</string>
+    <string name="filepath_title">服务目录</string>
+    <!-- Sync Preferences -->
+    <string name="sync_title">开启服务</string>
+    <string name="attachment_title">读写状态</string>
+    <string name="attachment_summary_on">允许上传文件</string>
+    <string name="attachment_summary_off">只允许下载文件</string>
+
+</resources>
